@@ -763,6 +763,18 @@ header {
     padding: 110px 0;
     overflow: hidden;
 }
+
+.hero-bg{
+    width: 100%;
+}
+
+
+
+.hero-bg>img{
+    width: 100%;
+
+}
+
 .hero-area-one .hero-bg {
     position: absolute;
     right: 0;
@@ -775,6 +787,7 @@ header {
 }
 .hero-area-one .hero-content h1 {
     margin-bottom: 15px;
+    color: white !important;
 }
 .hero-area-one .hero-content mark {
     display: block;
